@@ -4,11 +4,12 @@ const App = () => {
   return (
     <div>
       <h2>테스트</h2>
+
       <iframe
-        title='로그인통계'
+        title='이젠될까?'
         width="960"
         height="720"
-        src="https://ap-northeast-2.quicksight.aws.amazon.com/sn/embed/share/accounts/428473126979/dashboards/1beb0397-c557-4b0d-8e9f-83e3ee60e8e9?directory_alias=QuickSight-Finelab-Test">
+        src="https://ap-northeast-2.quicksight.aws.amazon.com/sn/embed/share/accounts/428473126979/dashboards/3f6541e3-6302-43ba-997e-d85692850922?directory_alias=QuickSight-Finelab-Test">
       </iframe>
     </div>
   )
